@@ -3,7 +3,7 @@
 var path = false;
 
 // location of script, url if path == true, or file path if path == false
-var loc = "";
+var loc = "d.js";
 
 // stores generated data URI for local script when path == false
 var djs = "";
